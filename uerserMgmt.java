@@ -4,3 +4,5 @@ ayo
 Tesla
 amin
 rose
+datti
+olu
